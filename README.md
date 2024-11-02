@@ -18,3 +18,6 @@ Todo Project
 ```bash
 npm install
 npm start
+
+##Database
+mysql -u root -p todo < src/database/todo_backup.sql
